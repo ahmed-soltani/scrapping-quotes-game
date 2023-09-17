@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from time import sleep
 from random import choice
 
-
 BASE_URL ="http://quotes.toscrape.com"
 
 
